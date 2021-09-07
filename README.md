@@ -1,0 +1,2 @@
+# PhysiCan
+PhysiCan es mi proyecto de Tesis para graduame en Ingeniería Electrónica. Se trata de una ortesis veterinaria para la reahbilitación de rodilla en caninos. Se controla desde el celular mediante una aplicación y también monitorea la actividad muscular durante los ejercicios de rehabilitación.
